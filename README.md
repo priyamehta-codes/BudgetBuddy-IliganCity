@@ -5,7 +5,7 @@
 
 **Budget Buddy** is a simple and intuitive web app designed to help users manage their expenses, track their income, and stay on top of their budgets!  
 Built with love using **Express.js**, **React.js**, and hosted on **Vercel**. 🧡
-
+ 
 ---
 
 ## Why Did I Make This Project?
